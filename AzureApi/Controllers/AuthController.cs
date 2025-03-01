@@ -9,5 +9,7 @@ namespace AzureApi.Controllers
     {
 
         public AuthController() { }
+
+        public void Index() { }
     }
 }
